@@ -1,4 +1,16 @@
-# README
+.navbar {
+  background-color: yellow !important;
+}
 
-This is the repo for the Finance Tracker App built with Ruby on Rails from the Complete Ruby on Rails Developer course
+#logo {
+    float: left;
+    font-size: 1.7em;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    font-weight: bold;
+}
 
+#home-container {
+    margin-top: 25px;
+}
